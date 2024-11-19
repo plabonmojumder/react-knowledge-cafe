@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/ZxgLPwn/1.jpg",
+      "title": "Mastering JavaScript in 30 Days",
+      "author_img": "https://i.ibb.co.com/ZmjqBMY/boy1.png",
+      "author":"Plabon",
+      "posted_date": "2024-11-15",
+      "reading_time": 8,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/7pZBRL2/2.png",
+      "title": "The Art of Responsive Design",
+      "author_img": "https://i.ibb.co.com/ZNKQQ8W/boy2.jpg",
+      "author":"Khokon",
+      "posted_date": "2024-11-12",
+      "reading_time": 5 ,
+      "hashtags": ["#CSS", "#Design", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/ryJXkHg/3.png",
+      "title": "Building Apps with Tailwind CSS",
+      "author_img": "https://i.ibb.co.com/S3vCWK6/girl1.jpg",
+      "author":"Jihad",
+      "posted_date": "2024-11-10",
+      "reading_time": 7,
+      "hashtags": ["#TailwindCSS", "#WebDesign", "#CSSFramework"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/2kD70NH/4.jpg",
+      "title": "A Guide to Bootstrap Components",
+      "author_img": "https://i.ibb.co.com/CvFzy5t/girl2.jpg",
+      "author":"Mohiful",
+      "posted_date": "2024-11-08",
+      "reading_time": 10,
+      "hashtags": ["#Bootstrap", "#UI", "#WebDevelopment"]
+    }
+  ]
+  
